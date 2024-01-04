@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/faithApp/static/css/main.f855e6bc.css",
+    "main.js": "/faithApp/static/js/main.c7a2d4bd.js",
+    "index.html": "/faithApp/index.html",
+    "main.f855e6bc.css.map": "/faithApp/static/css/main.f855e6bc.css.map",
+    "main.c7a2d4bd.js.map": "/faithApp/static/js/main.c7a2d4bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c7a2d4bd.js"
+  ]
+}
